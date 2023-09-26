@@ -7,8 +7,8 @@
 - 🖥️ Interact with the robot, change parameters, and view important information + logs
 
 ## Socials
-**Website:** (unopened, check back later)
-**Public discord:** (unopened, check back later)
+- **Website:** (unopened, check back later)
+- **Public discord:** (unopened, check back later)
 
 ## Credits
 - @rohanmishr (rohanmishra)
