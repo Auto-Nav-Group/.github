@@ -11,8 +11,7 @@
 - **Public discord:** (unopened, check back later)
 
 ## Credits
-- @rohanmishr (rohanmishra)
 - @TreeBronch (TreeBronch)
 - @IncbomDev (.incbom)
 - @PillageDev (pillage_)
-
+- @rohanmishr (rohanmishra)
